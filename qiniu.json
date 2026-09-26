@@ -1,0 +1,8 @@
+{
+  "STORAGE_MODE": "qiniu",
+  "QINIU_ACCESS_KEY": "Xy37lv0HOiYOUufJG5VFAyGZbW0sWBhUj8Ug1mM6",
+  "QINIU_SECRET_KEY": "DvckkIdnlIWltX5Du8E4Q-GRrt6WB3kOX4_-Z32d",
+  "QINIU_BUCKET": "zhibojacksun",
+  "QINIU_DOMAIN": "http://zhibo.qiniu.cdn.jack-sun.com",
+  "QINIU_ZONE": "Zone_z2"
+}

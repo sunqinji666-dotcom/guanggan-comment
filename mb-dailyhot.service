@@ -1,0 +1,10 @@
+[Unit]
+Description=Musicbed daily hot (server autonomous)
+After=network.target
+
+[Service]
+Type=oneshot
+ExecStart=/opt/jacksun-node-v24.18.0/bin/node /opt/mb-agent/daily_hot.js
+User=root
+StandardOutput=null
+StandardError=null

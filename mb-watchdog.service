@@ -1,0 +1,9 @@
+[Unit]
+Description=Musicbed services watchdog
+
+[Service]
+Type=oneshot
+ExecStart=/opt/mb-agent/watchdog.sh
+User=root
+StandardOutput=null
+StandardError=null
