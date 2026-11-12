@@ -18,3 +18,10 @@ __pycache__/
 *.ckpt
 *.safetensors
 *.gguf
+
+# 运行时日志与锁文件
+*.log
+*.lock
+*_id.txt
+last_id.txt
+chat_last_id.txt
